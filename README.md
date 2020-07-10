@@ -62,6 +62,8 @@ test()
 ## References
 
 - [Pandas Docs](https://pandas.pydata.org/pandas-docs/stable/index.html)
+- [Date functionallity](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html)
+- [Covert days to months](https://stackoverflow.com/questions/40554396/python-summarize-daily-data-in-dataframe-to-monthly-and-quarterly)
 
 ## Lab12 - Data Analysis with Pandas
 
